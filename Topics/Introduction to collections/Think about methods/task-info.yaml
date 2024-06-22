@@ -1,0 +1,38 @@
+type: table
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10400#comment
+status: Solved
+record: -1
+rows:
+  - size
+  - clear()
+  - "subList(fromIndex, toIndex)"
+  - isEmpty()
+  - "put(key, value)"
+  - add(element)
+columns:
+  - List
+  - Set
+  - Map
+selected:
+  - - false
+    - false
+    - false
+  - - false
+    - false
+    - false
+  - - false
+    - false
+    - false
+  - - false
+    - false
+    - false
+  - - false
+    - false
+    - false
+  - - false
+    - false
+    - false

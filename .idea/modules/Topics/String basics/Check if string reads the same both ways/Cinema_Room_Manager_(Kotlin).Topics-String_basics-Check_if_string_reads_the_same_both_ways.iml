@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-String_basics-Check_if_string_reads_the_same_both_ways" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/String basics/Check if string reads the same both ways" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema Room Manager (Kotlin)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/String basics/Check if string reads the same both ways">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String basics/Check if string reads the same both ways/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String basics/Check if string reads the same both ways/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String basics/Check if string reads the same both ways/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

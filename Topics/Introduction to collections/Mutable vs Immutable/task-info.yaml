@@ -1,0 +1,25 @@
+type: table
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11085#comment
+status: Solved
+record: -1
+rows:
+  - isEmpty()
+  - contains(element)
+  - remove(element)
+  - clear()
+columns:
+  - Immutable collections
+  - Mutable collections
+selected:
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false
+  - - false
+    - false

@@ -1,0 +1,40 @@
+content:
+  - Introduction to Kotlin
+  - Writing first program
+  - Values and variables
+  - Standard output
+  - Increment and decrement
+  - Data types
+  - Invoking functions
+  - Standard input with Java Scanner
+  - String basics
+  - String templates
+  - Boolean type and operations. True and false
+  - Properties of basic types
+  - Type conversion
+  - Reading data with readln
+  - Integers in action
+  - Comparing numbers. Relational operators
+  - If expression
+  - Loops  repeat statement
+  - While loops
+  - Structural vs referential equality
+  - Work with MutableLists
+  - Characters. Char type
+  - Ranges
+  - For loop and ranges
+  - For loop and lists
+  - Multi-dimensional list
+  - Kotlin style guide. Coding conventions
+  - Declaring functions
+  - When expression
+  - Errors in programs
+  - Working with strings
+  - Introduction to collections
+  - List
+  - Exception
+  - Hierarchy of exceptions
+  - Taming exceptions
+  - Try-catch statement
+  - The try-catch-finally statement
+  - Floating-point types
